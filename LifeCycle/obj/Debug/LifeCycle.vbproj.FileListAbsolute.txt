@@ -1,0 +1,11 @@
+C:\SF.Code\PluralSight\vb-windows-forms-intro\LifeCycle\LifeCycle\bin\Debug\LifeCycle.exe.config
+C:\SF.Code\PluralSight\vb-windows-forms-intro\LifeCycle\LifeCycle\bin\Debug\LifeCycle.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro\LifeCycle\LifeCycle\bin\Debug\LifeCycle.pdb
+C:\SF.Code\PluralSight\vb-windows-forms-intro\LifeCycle\LifeCycle\bin\Debug\LifeCycle.xml
+C:\SF.Code\PluralSight\vb-windows-forms-intro\LifeCycle\LifeCycle\obj\Debug\LifeCycle.vbprojResolveAssemblyReference.cache
+C:\SF.Code\PluralSight\vb-windows-forms-intro\LifeCycle\LifeCycle\obj\Debug\LifeCycle.Form1.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro\LifeCycle\LifeCycle\obj\Debug\LifeCycle.Resources.resources
+C:\SF.Code\PluralSight\vb-windows-forms-intro\LifeCycle\LifeCycle\obj\Debug\LifeCycle.vbproj.GenerateResource.Cache
+C:\SF.Code\PluralSight\vb-windows-forms-intro\LifeCycle\LifeCycle\obj\Debug\LifeCycle.exe
+C:\SF.Code\PluralSight\vb-windows-forms-intro\LifeCycle\LifeCycle\obj\Debug\LifeCycle.xml
+C:\SF.Code\PluralSight\vb-windows-forms-intro\LifeCycle\LifeCycle\obj\Debug\LifeCycle.pdb
